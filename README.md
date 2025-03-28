@@ -1,3 +1,7 @@
+Se agregó una interfaz gráfica para facilitar el uso de los comandos.
+Más información en: youtube.com/tipitochen
+
+
 # COOLBOY Multirom Builder
 [![Build test](https://github.com/ClusterM/coolboy-multirom-builder/actions/workflows/build.yaml/badge.svg)](https://github.com/ClusterM/coolboy-multirom-builder/actions/workflows/build.yaml)
 
